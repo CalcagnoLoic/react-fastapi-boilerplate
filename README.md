@@ -10,14 +10,14 @@
 
 # **_Table of contents_**
 
-- [Context](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#context)
-- [Template structure for frontend](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#template-structure-for-frontend)
-  - [Structuring the various `src` folder](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#structuring-the-various-src-folder)
-  - [Adding `meta-tags` to the project](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#how-to-use-it)
-  - [Description of `package.json` scripts](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#how-to-use-it)
-- [Template structure for backend](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#template-structure-for-backend)
-- [How to use it](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#how-to-use-it)
-- [Technologies used in the template](https://github.com/CalcagnoLoic/react-tailwind-boilerplate?tab=readme-ov-file#technologies-used-in-the-template)
+- [Context](https://github.com/CalcagnoLoicreact-fastapi-boilerplate?tab=readme-ov-file#context)
+- [Template structure for frontend](https://github.com/CalcagnoLoic/react-fastapi-boilerplate?tab=readme-ov-file#template-structure-for-frontend)
+  - [Structuring the various `src` folder](https://github.com/CalcagnoLoic/react-fastapi-boilerplate?tab=readme-ov-file#structuring-the-various-src-folder)
+  - [Adding `meta-tags` to the project](https://github.com/CalcagnoLoic/react-fastapi-boilerplate?tab=readme-ov-file#how-to-use-it)
+  - [Description of `package.json` scripts](https://github.com/CalcagnoLoic/react-fastapi-boilerplate?tab=readme-ov-file#how-to-use-it)
+- [Template structure for backend](https://github.com/CalcagnoLoic/react-fastapi-boilerplate?tab=readme-ov-file#template-structure-for-backend)
+- [How to use it](https://github.com/CalcagnoLoic/react-fastapi-boilerplate?tab=readme-ov-file#how-to-use-it)
+- [Technologies used in the template](https://github.com/CalcagnoLoic/react-fastapi-boilerplate?tab=readme-ov-file#technologies-used-in-the-template)
 
 # Context
 
